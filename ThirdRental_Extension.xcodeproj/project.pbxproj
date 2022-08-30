@@ -73,6 +73,7 @@
 		711B26F528BC6D4A00A0773D /* ThirdRental_Extension */ = {
 			isa = PBXGroup;
 			children = (
+				711B270D28BDDD5100A0773D /* ThirdRental_Extension */,
 				711B26F628BC6D4A00A0773D /* AppDelegate.swift */,
 				711B26F828BC6D4A00A0773D /* SceneDelegate.swift */,
 				711B26FA28BC6D4A00A0773D /* ViewController.swift */,
@@ -80,6 +81,13 @@
 				711B26FF28BC6D4C00A0773D /* Assets.xcassets */,
 				711B270128BC6D4C00A0773D /* LaunchScreen.storyboard */,
 				711B270428BC6D4C00A0773D /* Info.plist */,
+			);
+			path = ThirdRental_Extension;
+			sourceTree = "<group>";
+		};
+		711B270D28BDDD5100A0773D /* ThirdRental_Extension */ = {
+			isa = PBXGroup;
+			children = (
 				711B270A28BC6D6B00A0773D /* ThirdRental_Extension.swift */,
 			);
 			path = ThirdRental_Extension;
@@ -91,7 +99,6 @@
 				7AA4AAF9DD9FF3D9D37BCBDE /* Pods-ThirdRental_Extension.debug.xcconfig */,
 				8C42CA450156B67D3163B22D /* Pods-ThirdRental_Extension.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

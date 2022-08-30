@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ThirdRental_Extension"
-  spec.version      = "10"
+  spec.version      = "15"
   spec.summary      = " ThirdRental_Extension."
 
   # This description is used to generate tags and improve search results.
@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "ThirdRental_Extension", "ThirdRental_Extension/**/*.{h,m}"
+  #spec.source_files  = "ThirdRental_Extension/**/*.{h,m,swift}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
